@@ -6,7 +6,7 @@
 >
 >#### 우리는 Yahoo Weather API를 쓰겠습니다 !
 >
-> 
+>  
 >
 >```ruby
 >chat_text = hash["result"].last["message"]["text"]
